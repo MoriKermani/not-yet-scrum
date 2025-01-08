@@ -34,6 +34,7 @@ Example list of not acceptable formats:
 - Formatted text documents such as `MSWord`, `Excel`, `Google-doc`, 
     `LibreOffice Writer` etc ...
 - PDF
+- Whiteboard
 
 
 Example list of acceptable formats:
